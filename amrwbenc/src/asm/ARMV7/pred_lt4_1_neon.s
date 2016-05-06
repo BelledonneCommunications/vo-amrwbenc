@@ -99,5 +99,5 @@ pred_lt4_end:
 Lable1:
           .word   	voAWB_inter4_2-Lable1
           @ENDFUNC
-          .END
+          .end
 
